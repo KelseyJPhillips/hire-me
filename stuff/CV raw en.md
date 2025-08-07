@@ -20,7 +20,7 @@ URLs:
 - 📑 Contract: Open to Permanent or Freelance  
 - 💰 Salary: €80k+ annually or €80/h freelance  
 - 🧠 Keywords: Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform  
-- 🌍 Languages: French (native), English, German, Spanish (C2), Japanese, Italian, Esperanto (basic)
+- 🌍 Languages: French (native), English, German, Spanish (C1-C2), Japanese, Italian, Esperanto (basic)
 
 ## Experiences
 

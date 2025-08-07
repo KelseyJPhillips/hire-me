@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Tu as un besoin d'un GPS pour t'orienter dans la jungle du recrutement
 Boxes:
   - "[[Articles]]"
   - "[[Série agentdesdevs]]"
@@ -8,10 +6,12 @@ URLs:
   - https://substack.jmfayard.dev/p/gps-carriere
 date:
   - 202506080950
+aliases:
+  - Tu as un besoin d'un GPS pour t'orienter dans la jungle du recrutement
 published: true
 ---
 
-# `= this.aliases[0]`
+# Tu as un besoin d'un GPS pour t'orienter dans la jungle du recrutement
 
 Tu es bien dans la série : [Comment trouver un job quand le marché est pourri et qu'il n'y a rien à attendre de LinkedIn ?](https://substack.jmfayard.dev/p/trouve-ton-job-de-dev)
 

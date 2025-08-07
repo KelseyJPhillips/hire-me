@@ -1,16 +1,16 @@
 ---
-aliases:
-  - "A framework of choice: 3 criteria and 3 anti-criteria"
-  - So tell me what you want, what you really want
 Boxes:
   - "[[Série agentdesdevs]]"
 URLs:
   - https://dev.to/jmfayard/who-do-i-want-to-work-with-a-simple-framework-3hnl
+aliases:
+  - "A framework of choice: 3 criteria and 3 anti-criteria"
+  - So tell me what you want, what you really want
 date:
   - 202508061729
 ---
 
-# # Who do I Want to Work With? A Simple Framework
+# Who do I Want to Work With? A Simple Framework
 
 "_Who do I want to work with?_" is maybe _the_ most important question for your career.
 

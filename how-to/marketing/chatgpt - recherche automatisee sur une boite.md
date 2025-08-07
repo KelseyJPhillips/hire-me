@@ -1,13 +1,12 @@
 ---
-aliases:
-  - Automatiser sa recherche sur les boites avec ChatGPT
-  - Cours de recrutement inversé gratuit pour les devs par un dev qui a fait du recrutement
 Boxes:
   - "[[ChatGPT]]"
   - "[[Série agentdesdevs]]"
   - "[[Articles]]"
 URLs:
   - https://substack.jmfayard.dev/p/recherche-boite-chatgpt
+aliases:
+  - Automatiser sa recherche sur les boites avec ChatGPT
 date:
   - 202506171633
 published: true

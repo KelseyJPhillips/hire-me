@@ -1,18 +1,18 @@
 ---
-aliases:
-  - “What is your current salary?” is a red flag that you don’t want to work here
 Boxes:
   - "[[Série agentdesdevs]]"
   - "[[Négocier]]"
   - "[[Articles]]"
 URLs:
   - https://substack.jmfayard.dev/p/current-salary
+aliases:
+  - “What is your current salary?” is a red flag that you don’t want to work here
 date:
   - 202506191601
 published: true
 ---
 
-# `= this.aliases[0]`
+# “What is your current salary?” is a red flag that you don’t want to work here
 
 
 Tu es bien dans la série : [Comment trouver un job quand le marché est pourri et qu'il n'y a rien à attendre de LinkedIn ?](https://substack.jmfayard.dev/p/trouve-ton-job-de-dev)

@@ -1,18 +1,19 @@
 ---
-aliases:
-  - Plus de gens ont peur de prendre la parole en public que de mourir
-  - Le plus dur c'est de se lancer
 Boxes:
   - "[[Articles]]"
   - "[[Série agentdesdevs]]"
   - "[[REX]]"
 URLs:
   - https://substack.jmfayard.dev/p/prendre-la-parole
+aliases:
+  - Plus de gens ont peur de prendre la parole en public que de mourir
+  - Le plus dur c'est de se lancer
 date:
   - 202507270643
 ---
 
-# `= this.aliases[0]`
+# Plus de gens ont peur de prendre la parole en public que de mourir
+## Le plus dur c'est de se lancer
 
 https://www.youtube.com/watch?v=6OWC5p_tP5c
 

@@ -1,16 +1,18 @@
 ---
-aliases:
-  - Lance le CABINET LEDR pour offrir une TRIBU aux recruteuses qui ne lâchent RIEN
 Boxes:
   - "[[CFDR]]"
   - "[[Annonces]]"
   - "[[Série agentdesdevs]]"
 URLs:
   - https://substack.jmfayard.dev/p/job-ad-cabinet-ledr
+aliases:
+  - Lance le CABINET LEDR pour offrir une TRIBU aux recruteuses qui ne lâchent RIEN
 date:
   - 202507021727
 published: true
 ---
+## Les mauvaises annonces d'emploi on connait. Les bonnes ça existe aussi !
+
 Je me plein toujours des **fiches de postes** **claquées au sol** qu’on subit dans les processus de recrutement
 
 - **jargon interne**

@@ -1,7 +1,4 @@
 ---
-aliases:
-  - "Brain teaser : combien y a t'il de fenêtres à Manhattan ?"
-  - Cours de recrutement inversé gratuit pour les devs par un dev qui a fait du recrutement
 Boxes:
   - "[[Articles]]"
   - "[[Série agentdesdevs]]"
@@ -9,10 +6,12 @@ URLs:
   - https://substack.jmfayard.dev/p/how-many-windows
 date:
   - 202506230735
+aliases:
+  - "Brain teaser : combien y a t'il de fenêtres à Manhattan ?"
 published: true
 ---
 
-# `= this.aliases[0]`
+# Brain teaser : combien y a t'il de fenêtres à Manhattan ?
 
 ![](https://share.cleanshot.com/Rxdkb6ZM+)
 

@@ -11,48 +11,22 @@ date:
 ## Who do I want to work with ?
 https://dev.to/jmfayard/who-do-i-want-to-work-with-a-simple-framework-3hnl
 
-👨🏻‍💻 Stack : backend position
-🥁 Role : engineering manager, team leader, ...
-
-3 negative criterias
-📍 Localization : Berlin or full remote
-💸 Money : freelancer contract with an hourly rate of 100€
-❌ Blacklist : NFT, Mongodb, blockchain, huge companies, ...
-
-3 positive criterias
-❤️ Technology : golang and kubernetes
-❤️ Project : social impact, .....
-👨🏻‍🦰 People : people who.....
-🍁 Priority : project over people over technology
-
-
-
-# 👨🏻‍💻 Stack/Area
-
-- Backend
-- Occasional frontend parts are okay (so part time full stack)
-- Ops can be a part as well
-- Infrastructure (setting up tools like the CI) can be a part as well
-
-🥁 Role: 50:50 engineer and manager. Pure engineering positions are good as well. 
-
-**Managing titles coming to my mind**: Team Lead, Engineering Lead, VP of engineering, CTO
 
 # 3 negative criterias
 
-- **📍 Localization**
+### **📍 Localization**
 
 - Berlin
 - full remote
 - part time remote for a company outside of Berlin would be somewhat okay if it isn't regularly commuting but maybe once per month or unique events like a week of onboarding
 
-- **💰Money**
+### **💰Money**
 
 - freelancer contract with an hourly rate from 100€
 - Arbeitnehmerüberlassung from 120k € annually
 - full time contract in the range from 100k € annually
 
-- **❌ Blacklist**
+### **❌ Blacklist**
 
 - anything anti democratic
 - anything on the right side of politics or "conservative" values (no sexism, no homophobia, no racism etc.)
@@ -122,3 +96,21 @@ people who care about each other and have similar values
 
 - Freelancing (which is temporary): project > people > technology
 - Arbeitnehmerüberlassung and full time: people > project > technology
+
+
+# 👨🏻‍💻 Stack/Area
+
+**Backend**
+- Occasional frontend parts are okay (so part time full stack)
+- Ops can be a part as well
+- Infrastructure (setting up tools like the CI) can be a part as well
+
+🥁 **Role**: 
+- 50:50 engineer and manager. 
+- Pure engineering positions are good as well. 
+
+**Managing titles coming to my mind**: 
+- Team Lead
+- Engineering Lead
+- VP of engineering
+- CTO

@@ -11,16 +11,16 @@ URLs:
 ---
 ## TLDR
 
-- 👤 **Jean-Michel Fayard**, 43 years old, 15 years of experience  
-- 🧑‍💻 **Role**: Team Lead / Senior Backend Developer / Developer Coach  
-- 🔧 **Stack**: Kotlin & Java expert, open to other techs  
-- 🎓 **Education**: MSc in Computer Science (France & Germany)  
-- 📍 **Location**: Berlin or full remote (Germany/EU time zone)  
-- 📅 **Availability**: ASAP  
-- 📑 **Contract**: Open to Permanent or Freelance  
-- 💰 **Salary**: €80k+ annually or €80/h freelance  
-- 🧠 **Keywords**: Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform  
-- 🌍 **Languages**: French (native), English, German, Spanish (C2), Japanese, Italian, Esperanto (basic)
+- 👤 Jean-Michel Fayard, 43 years old, 15 years of experience  
+- 🧑‍💻 Role: Team Lead / Senior Backend Developer / Developer Coach  
+- 🔧 Stack: Kotlin & Java expert, open to other techs  
+- 🎓 Education: MSc in Computer Science (France & Germany)  
+- 📍 Location: Berlin or full remote (Germany/EU time zone)  
+- 📅 Availability: ASAP  
+- 📑 Contract: Open to Permanent or Freelance  
+- 💰 Salary: €80k+ annually or €80/h freelance  
+- 🧠 Keywords: Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform  
+- 🌍 Languages: French (native), English, German, Spanish (C2), Japanese, Italian, Esperanto (basic)
 
 ## Experiences
 
@@ -30,15 +30,15 @@ Senior Back-end Developer
 Paris
 https://www.ca-cib.com/en
 
-Championed the **adoption of AI** tools (GitHub Copilot, ChatGPT) to boost developer productivity and team confidence. Led hands-on workshops and created internal **guidelines** for responsible AI usage. Facilitated regular retrospectives to foster **continuous improvement** around AI-assisted workflows.  
+Championed the adoption of AI tools (GitHub Copilot, ChatGPT) to boost developer productivity and team confidence. Led hands-on workshops and created internal guidelines for responsible AI usage. Facilitated regular retrospectives to foster continuous improvement around AI-assisted workflows.  
 
-→ Result: **improved developer morale**, **faster onboarding**, and more intentional use of LLMs in daily work.  
+→ Result: improved developer morale, faster onboarding, and more intentional use of LLMs in daily work.  
 
 Contributed to a critical component of the bank’s infrastructure — a real-time stream handling over 400,000 financial transactions daily, with end-of-day and end-of-month load peaks.  
 
 Improved system observability and alerting, with most root-cause analysis taking place in < 1 hour and higher operational confidence during production incidents.  
 
-**Skills**: Java, Kotlin, Spring Boot, Kafka, Kubernetes, REST, GraphQL, Terraform, GitLab CI, ArgoCD, Helm, AWS, DevOps, Observability, OpenTelemetry, Iceberg
+Skills: Java, Kotlin, Spring Boot, Kafka, Kubernetes, REST, GraphQL, Terraform, GitLab CI, ArgoCD, Helm, AWS, DevOps, Observability, OpenTelemetry, Iceberg
 
 ### Coaching for Developers
 Solopreneur
@@ -50,11 +50,11 @@ Helped 13 developers land more fulfilling jobs through technical coaching, mock 
 
 Gave interview preparation with consulting companies such as CodeBusters.
 
-Created long-form, high-signal content with over **260 technical blog posts** written over 6+ years, covering both hard skills and dev career strategy.  
+Created long-form, high-signal content with over 260 technical blog posts written over 6+ years, covering both hard skills and dev career strategy.  
 
 Spoke at internal and public meetups on careers and culture-related questions.
 
-**Skills**: Developer Coaching, Career Orientation, Technical Training, Writing, Public Speaking, Entrepreneurship, Developer Marketing
+Skills: Developer Coaching, Career Orientation, Technical Training, Writing, Public Speaking, Entrepreneurship, Developer Marketing
 
 ### Tignum
 Team Lead/Senior Back-end Developer
@@ -72,7 +72,7 @@ Mentored an Android developer into a proficient backend contributor, fostering a
 
 Organized regular internal meetups to share knowledge, discuss architecture trade-offs, and improve async collaboration in a fully remote team.
 
-**Skills**: Kotlin, TypeScript, Ktor, GraphQL, Java, Software Architecture, Gradle, CI/CD, Docker, Heroku, Lean Startup, Agile Development, Remote Team Leadership
+Skills: Kotlin, TypeScript, Ktor, GraphQL, Java, Software Architecture, Gradle, CI/CD, Docker, Heroku, Lean Startup, Agile Development, Remote Team Leadership
 
 
 ### Payala
@@ -87,7 +87,7 @@ Developed an Android app used as a contactless payment terminal.
 
 Collaborated with cryptography experts to integrate Java-based smartcards that securely store balances and perform local verification.
   
-**Keywords**: Java, Kotlin, Go, Gin, Android, Java Smartcards, Offline-first systems, digital wallets, contactless smart cards, resilient architecture, cybersecurity, field-tested payments, financial inclusion
+Keywords: Java, Kotlin, Go, Gin, Android, Java Smartcards, Offline-first systems, digital wallets, contactless smart cards, resilient architecture, cybersecurity, field-tested payments, financial inclusion
 
 ### Smart Mobile Factory
 Android & Back-end Developer
@@ -103,13 +103,16 @@ Developed a pragmatic, polyglot mindset and became highly effective at ramping u
 
 Built a solid technical foundation across mobile and backend ecosystems, gaining exposure to diverse codebases, architectures, and team dynamics.
 
-**Skills**: Android, Java, Kotlin, TypeScript, PHP, Spring, Spring Boot, Symfony, REST APIs, Agile Delivery, Pair Programming, Tech Onboarding, Pragmatic Software Design
+Skills: Android, Java, Kotlin, TypeScript, PHP, Spring, Spring Boot, Symfony, REST APIs, Agile Delivery, Pair Programming, Tech Onboarding, Pragmatic Software Design
 
 ## Altran
-Software Consultant
+Software Engineer & Consultant
 January 2007 - January 2012
 
-Consulting mostly for telecom and insurance companies
+Consulting for big french companies (CAC 40)
+
 Development and automated testing
+
+Android programming
 
 

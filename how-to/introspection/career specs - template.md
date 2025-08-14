@@ -10,6 +10,8 @@ date:
 ---
 
 ## 👨🏻‍💻 Stack
+bla bla
+bla bla
 
 ## 🥁 Role 
 plusieurs titres possibles

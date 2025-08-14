@@ -16,10 +16,11 @@ URLs:
 - 🔧 Stack: Kotlin & Java expert, open to other techs  
 - 🎓 Education: MSc in Computer Science (France & Germany)  
 - 📍 Location: Berlin or full remote (Germany/EU time zone)  
+- 🇫🇷 French Nationality (no need for working visa)
 - 📅 Availability: ASAP  
 - 📑 Contract: Open to Permanent or Freelance  
 - 💰 Salary: €80k+ annually or €80/h freelance  
-- 🧠 Keywords: Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform  
+- 🔧 Stack : AWS Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform  
 - 🌍 Languages: French (native), English, German, Spanish (C1-C2), Japanese, Italian, Esperanto (basic)
 
 ## Experiences
@@ -62,15 +63,20 @@ Team Lead/Senior Back-end Developer
 Full remote, from Paris
 https://www.tignum.com/
 
-Rescued a stalled project from over-engineering by advocating for simplicity, lean architecture, and faster delivery. Defined and led the design of a new backend in Kotlin (Ktor), choosing “the simplest solution that works” to maximize feature delivery with a small team.  
+Saved 2 million euros to the company, as right hand of the CTO
 
-Promoted a writing-first culture in a fully remote environment, enabling clear decision-making, reduced interruptions, and faster onboarding.
+Rescued a stalled project from over-engineering, AWS bill went from 10k€/month to 0.5k€/month.
 
-Broke down silos between backend and frontend by encouraging shared ownership, cross-team reviews, and collaborative architecture decisions.  
+Closed the Berlin office costing 16k€/month by moving to full remote. 
+Promoted a writing-first asynchronous work culture, reduced interruptions, faster onboarding.
 
-Mentored an Android developer into a proficient backend contributor, fostering a culture of upskilling and full-stack curiosity.  
+Went from 20 devs to a better team of 12 devs.
+Reduced 3 front-end project to 1 single codebase. 
+Broke down silos between backend and frontend.
 
-Organized regular internal meetups to share knowledge, discuss architecture trade-offs, and improve async collaboration in a fully remote team.
+Delivered more and better business features by making it simple to add, test and deploy new functionnality.
+
+Organized regular internal meetups to share knowledge and discuss trade-offs.
 
 Skills: Kotlin, TypeScript, Ktor, GraphQL, Java, Software Architecture, Gradle, CI/CD, Docker, Heroku, Lean Startup, Agile Development, Remote Team Leadership
 

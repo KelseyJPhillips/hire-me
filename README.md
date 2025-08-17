@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
+<h1 align="center">Hi 👋, I'm Kelsey Phillips</h1>
 
-## Jean-Michel / Team lead, senior dev, backend / Berlin or Full Remote
+## Kelsey/ Developer, Data analyst / Canada or Remote
 <p align="left"><img src="https://skillicons.dev/icons?i=cpp,c#,java,py,mysqpl,sqlite,r,postgres,git,github,bash,linux,vim&perline=16" alt="Tech Stack" /> </p>
 
 - 👤 **Kelsey Phillips**, Kelsey Phillips, 4 years of experience 
@@ -19,8 +19,8 @@
 
 ### ✅ Must-haves
 
-- A culture that values **continuous improvement** and **coordination**
-- Strong **written and asynchronous** communication practices
+- Organizations that value **continuous improvement** and **coordination**
+- **Dynamic** and **challenging** problems to solve
 - Opportunities to **mentor and help teams grow**
 
 ### ✨ Nice-to-haves
@@ -68,6 +68,6 @@
 ---
 ## Contact Info
 
-- ✍🏻 [My CV in English](https://github.com/jmfayard/hire-me/blob/main/CV%20Jean%20Michel%20EN.pdf)
-- 📫 My email : mailto:kelsey.joshia.phillips@gmail.com
+- ✍🏻 [CV](https://github.com/jmfayard/hire-me/blob/main/CV%20Jean%20Michel%20EN.pdf)
+- 📫 Email : mailto:kelsey.joshia.phillips@gmail.com
 - 📆 Linkedin : https://www.linkedin.com/in/kelsey-j-phillips

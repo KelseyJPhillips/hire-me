@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kelsey Phillips ✋</h1>
 
 ## Kelsey Phillips / Developer, Data analyst / Canada or Remote
-<p align="left"><img src="https://skillicons.dev/icons?i=cpp,cs,java,py,mysqpl,sqlite,r,postgres,git,github,bash,linux,vim&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=cpp,cs,java,py,mysql,sqlite,r,postgres,git,github,bash,linux,vim&perline=16" alt="Tech Stack" /> </p>
 
 - 👨‍💼 **Kelsey Phillips**, Kelsey Phillips, 4 years of tech experience 
 - 🧑‍ **Role**: Software Developer and Data Analyst

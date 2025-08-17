@@ -11,7 +11,7 @@
 - 📅 **Availability**: ASAP  
 - 📝 **Contract**: Full-time or contract 
 - 💰 **Salary**: $58k+ annually 
-- ⌨️ **Keywords**: Data Analyst, Developer, Agile Development, Machine Learning, 
+- ⌨️ **Keywords**: Agile Development, Machine Learning, Quality Assurance
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 ## Contact Information
 
-- 📄 [CV](https://www.github.com/KelseyJPhillips/hire-me/blob/main/Kelsey_Phillips_Master_CV.pdf)
+- 📄 Work History : [CV](https://www.github.com/KelseyJPhillips/hire-me/blob/main/Kelsey_Phillips_Master_CV.pdf)
 - 📧 Email : [kelsey.joshua.phillips@gmail.com](mailto:kelsey.joshua.phillips@gmail.com)
 - 🤝 Linkedin : https://www.linkedin.com/in/kelsey-j-phillips
 
